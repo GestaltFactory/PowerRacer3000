@@ -16,5 +16,5 @@ This educational project demonstrates class relationships, simulation flow, and 
 - Easy to read, run, and modify for beginners
 
 <p align="center">
-  <img src="https://github.com/GestaltFactory/PowerRacer3000/blob/main/01.PNG" width="35%">
+  <img src="" width="35%">
 </p>
